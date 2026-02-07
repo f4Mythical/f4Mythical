@@ -8,3 +8,8 @@
 ╚═╝░░╚═╝╚═╝  ╚═╝░░░░░░╚════╝░╚══════╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═════╝░
 </code></pre>
 </p>
+<p align="right" style="margin: -20px 0 0 0;">
+  <a href="https://discord.com/users/1267605697106018375 ">
+    <img src="zdjecia/Discord.svg" width="40" style="border-radius: 50%;">
+  </a>
+</p>
